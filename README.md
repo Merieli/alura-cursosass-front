@@ -6,7 +6,7 @@
     Gatito Pet Shop
 </h1>
 
-<p align="center">This project was developed in the course of <a href="https://cursos.alura.com.br/course/sass-css-superpoderes">"Sass: CSS with superpowers" of Alura</a>. </p>
+<p align="center">This project was developed in the course of <a href="https://cursos.alura.com.br/course/sass-css-superpoderes">"Sass: CSS with superpowers" of Alura</a> finished in November 28, 2021. </p>
 
 <p align="center">
   <a href="https://opensource.org/licenses/MIT">
@@ -14,9 +14,7 @@
   </a>
 </p>
 
-<div>
-  <img src="assets/settings/desktop-gatito.gif" alt="Initial project for the course" height="425">
-</div>
+![Site Gif](assets/settings/desktop-gatito.gif)
 
 <hr />
 
