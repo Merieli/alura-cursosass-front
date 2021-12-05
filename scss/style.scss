@@ -1,6 +1,6 @@
-/// Estas variaveis se referem as cores principais do blog
 @use "sass:math";
 
+/// Estas variaveis se referem as cores principais do blog
 $purple: #A050BE;
 $light-grey: #eaeaeb;
 $dark-grey: #464646;
@@ -174,7 +174,7 @@ $layout-margin-size: 10px;
         width: 25%;
         padding: 40px 10px;
     }
-
+    
     .sidebar{
         &__top{
             border: 1px solid $light-grey;

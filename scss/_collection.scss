@@ -46,6 +46,17 @@ $full-width: 100%;
         &.half {
             @include theme-collection($half-post: true);
         }
+
+        @for $i from 3 through 4{
+            &:nth-child(#{$i}), &:nth-child(#{$i + 3}){
+                @include for-desktop-only{
+                    padding: 20px 0;
+                    .collection__img{
+                        box-shadow: 2px 2px 8px;
+                    }
+                }                
+            }
+        }
     }
 
     &__figure {
