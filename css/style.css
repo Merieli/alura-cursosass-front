@@ -539,6 +539,16 @@
   width: 25%;
   padding: 40px 10px;
 }
+@media (max-width: 767.98px) {
+  .main__sidebar {
+    width: 100%;
+  }
+}
+@media (min-width: 768px) and (max-width: 1199.98px) {
+  .main__sidebar {
+    width: 100%;
+  }
+}
 .main .sidebar__top {
   border: 1px solid #eaeaeb;
   padding: 15px 20px;
